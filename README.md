@@ -2,7 +2,7 @@
 Hide secret messages in wave audio file.
 
 # What is AuSten
-Austen is a python based program for simple (Au)dio (Sten)ography.
+Austen is a python based program for simple audio steganography.
 You can safety play short audio wave file in any media player and share secret informations with any one.
 Austen generate 1sec length sine wave audiofile with a text message hide in there, or decode secret text messages from wave audio file.
 
